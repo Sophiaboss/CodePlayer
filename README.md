@@ -1,2 +1,2 @@
 # CodePlayer
-Learning jQuery
+Test your reflexes by clicking on the pop-up box
